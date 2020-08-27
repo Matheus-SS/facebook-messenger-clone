@@ -5,7 +5,7 @@
 
 # Facebook messenger clone 
 
-Aplicação criada com react.js e firebase,onde simula o chat do messenger do facebook
+Aplicação criada com react.js e firebase,onde simula o chat do messenger do facebook. A aplicação trabalha em tempo real utilizando o cloud firestore junto com o useEffect do react hooks.
 
 https://facebook-messenger-clone-c84d7.web.app/
 
