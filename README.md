@@ -1,8 +1,7 @@
-
-<!-- ![Badge](https://img.shields.io/github/issues/Matheus-SS/GoRestaurant-Web)
-![Badge](https://img.shields.io/github/forks/Matheus-SS/GoRestaurant-Web)
-![Badge](https://img.shields.io/github/stars/Matheus-SS/GoRestaurant-Web)
-![Badge](https://img.shields.io/github/license/Matheus-SS/GoRestaurant-Web) -->
+![Badge](https://img.shields.io/github/issues/Matheus-SS/facebook-messenger-clone)
+![Badge](https://img.shields.io/github/forks/Matheus-SS/facebook-messenger-clone)
+![Badge](https://img.shields.io/github/stars/Matheus-SS/facebook-messenger-clone)
+![Badge](https://img.shields.io/github/license/Matheus-SS/facebook-messenger-clone)
 
 # Facebook messenger clone 
 
