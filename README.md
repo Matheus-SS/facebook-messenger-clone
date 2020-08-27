@@ -17,9 +17,10 @@ https://facebook-messenger-clone-c84d7.web.app/
 
 ## Layout
 
-<p>
-  <img src="screens/01.png" />
-  <img src="screens/02.png" />
+<p align="center">
+  <img src="screens/01.png"/>
+  
+  <img src="screens/02.png"/>
 </p>
 
 <!-- > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/GoRestaurant-Web/blob/master/LICENSE) para mais detalhes. -->
