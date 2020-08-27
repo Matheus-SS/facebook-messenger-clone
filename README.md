@@ -23,4 +23,4 @@ https://facebook-messenger-clone-c84d7.web.app/
   <img src="screens/02.png"/>
 </p>
 
-<!-- > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/GoRestaurant-Web/blob/master/LICENSE) para mais detalhes. -->
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/facebook-messenger-clone/blob/master/LICENSE) para mais detalhes. 
